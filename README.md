@@ -1,10 +1,11 @@
 # Bandana Sharma Portfolio
 
-## Install
-npm install
+## Direct Upload Method (No npm required)
 
-## Run
-npm run dev
+Upload these files directly to your GitHub Pages repository.
 
-## Build
-npm run build
+Files included:
+- index.html
+- style.css
+
+Your site will work instantly on GitHub Pages.
