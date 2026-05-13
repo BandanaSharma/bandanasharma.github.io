@@ -1,2 +1,10 @@
-# bandanakumari.github.io
-Bandana portfolio
+# Bandana Sharma Portfolio
+
+## Install
+npm install
+
+## Run
+npm run dev
+
+## Build
+npm run build
