@@ -1,2 +1,2 @@
 # bandanakumari.github.io
-portfolio
+Bandana portfolio
